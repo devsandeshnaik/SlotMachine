@@ -13,6 +13,18 @@
 		029D62A424EAE96D00354D2D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 029D62A324EAE96D00354D2D /* Assets.xcassets */; };
 		029D62A724EAE96D00354D2D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 029D62A624EAE96D00354D2D /* Preview Assets.xcassets */; };
 		029D62AA24EAE96D00354D2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 029D62A824EAE96D00354D2D /* LaunchScreen.storyboard */; };
+		029D62C924EAF25800354D2D /* background-music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 029D62C124EAF25700354D2D /* background-music.mp3 */; };
+		029D62CA24EAF25800354D2D /* spin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 029D62C224EAF25700354D2D /* spin.mp3 */; };
+		029D62CB24EAF25800354D2D /* win.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 029D62C324EAF25800354D2D /* win.mp3 */; };
+		029D62CC24EAF25800354D2D /* chimeup.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 029D62C424EAF25800354D2D /* chimeup.mp3 */; };
+		029D62CD24EAF25800354D2D /* casino-chips.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 029D62C524EAF25800354D2D /* casino-chips.mp3 */; };
+		029D62CE24EAF25800354D2D /* game-over.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 029D62C624EAF25800354D2D /* game-over.mp3 */; };
+		029D62CF24EAF25800354D2D /* high-score.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 029D62C724EAF25800354D2D /* high-score.mp3 */; };
+		029D62D024EAF25800354D2D /* riseup.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 029D62C824EAF25800354D2D /* riseup.mp3 */; };
+		029D62D524EAF8B100354D2D /* Extension+Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029D62D424EAF8B100354D2D /* Extension+Color.swift */; };
+		029D62D724EAFDC300354D2D /* LogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029D62D624EAFDC300354D2D /* LogoView.swift */; };
+		029D62D924EAFE0000354D2D /* Modifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029D62D824EAFE0000354D2D /* Modifiers.swift */; };
+		029D62DB24EB01B800354D2D /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029D62DA24EB01B800354D2D /* Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +36,18 @@
 		029D62A624EAE96D00354D2D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		029D62A924EAE96D00354D2D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		029D62AB24EAE96D00354D2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		029D62C124EAF25700354D2D /* background-music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "background-music.mp3"; sourceTree = "<group>"; };
+		029D62C224EAF25700354D2D /* spin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = spin.mp3; sourceTree = "<group>"; };
+		029D62C324EAF25800354D2D /* win.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = win.mp3; sourceTree = "<group>"; };
+		029D62C424EAF25800354D2D /* chimeup.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chimeup.mp3; sourceTree = "<group>"; };
+		029D62C524EAF25800354D2D /* casino-chips.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "casino-chips.mp3"; sourceTree = "<group>"; };
+		029D62C624EAF25800354D2D /* game-over.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "game-over.mp3"; sourceTree = "<group>"; };
+		029D62C724EAF25800354D2D /* high-score.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "high-score.mp3"; sourceTree = "<group>"; };
+		029D62C824EAF25800354D2D /* riseup.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = riseup.mp3; sourceTree = "<group>"; };
+		029D62D424EAF8B100354D2D /* Extension+Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+Color.swift"; sourceTree = "<group>"; };
+		029D62D624EAFDC300354D2D /* LogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoView.swift; sourceTree = "<group>"; };
+		029D62D824EAFE0000354D2D /* Modifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modifiers.swift; sourceTree = "<group>"; };
+		029D62DA24EB01B800354D2D /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +80,9 @@
 		029D629C24EAE96900354D2D /* Slot Machine */ = {
 			isa = PBXGroup;
 			children = (
+				029D62D324EAF27B00354D2D /* Helpers */,
+				029D62D224EAF27100354D2D /* Views */,
+				029D62D124EAF26000354D2D /* Sounds */,
 				029D629D24EAE96900354D2D /* AppDelegate.swift */,
 				029D629F24EAE96900354D2D /* SceneDelegate.swift */,
 				029D62A124EAE96900354D2D /* ContentView.swift */,
@@ -73,6 +100,39 @@
 				029D62A624EAE96D00354D2D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		029D62D124EAF26000354D2D /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				029D62C124EAF25700354D2D /* background-music.mp3 */,
+				029D62C524EAF25800354D2D /* casino-chips.mp3 */,
+				029D62C424EAF25800354D2D /* chimeup.mp3 */,
+				029D62C624EAF25800354D2D /* game-over.mp3 */,
+				029D62C724EAF25800354D2D /* high-score.mp3 */,
+				029D62C824EAF25800354D2D /* riseup.mp3 */,
+				029D62C224EAF25700354D2D /* spin.mp3 */,
+				029D62C324EAF25800354D2D /* win.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		029D62D224EAF27100354D2D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				029D62D624EAFDC300354D2D /* LogoView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		029D62D324EAF27B00354D2D /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				029D62D424EAF8B100354D2D /* Extension+Color.swift */,
+				029D62D824EAFE0000354D2D /* Modifiers.swift */,
+				029D62DA24EB01B800354D2D /* Extension.swift */,
+			);
+			path = Helpers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -133,9 +193,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				029D62C924EAF25800354D2D /* background-music.mp3 in Resources */,
+				029D62CA24EAF25800354D2D /* spin.mp3 in Resources */,
+				029D62CC24EAF25800354D2D /* chimeup.mp3 in Resources */,
 				029D62AA24EAE96D00354D2D /* LaunchScreen.storyboard in Resources */,
+				029D62CE24EAF25800354D2D /* game-over.mp3 in Resources */,
+				029D62CF24EAF25800354D2D /* high-score.mp3 in Resources */,
+				029D62CB24EAF25800354D2D /* win.mp3 in Resources */,
 				029D62A724EAE96D00354D2D /* Preview Assets.xcassets in Resources */,
 				029D62A424EAE96D00354D2D /* Assets.xcassets in Resources */,
+				029D62D024EAF25800354D2D /* riseup.mp3 in Resources */,
+				029D62CD24EAF25800354D2D /* casino-chips.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,9 +214,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				029D62D724EAFDC300354D2D /* LogoView.swift in Sources */,
 				029D629E24EAE96900354D2D /* AppDelegate.swift in Sources */,
+				029D62DB24EB01B800354D2D /* Extension.swift in Sources */,
 				029D62A024EAE96900354D2D /* SceneDelegate.swift in Sources */,
 				029D62A224EAE96900354D2D /* ContentView.swift in Sources */,
+				029D62D924EAFE0000354D2D /* Modifiers.swift in Sources */,
+				029D62D524EAF8B100354D2D /* Extension+Color.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
