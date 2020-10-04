@@ -7,7 +7,6 @@
 //
 
 import SwiftUI
-import UIKit
 
 extension Color {
     static var colorPink: Color { Color("ColorPink") }
@@ -16,6 +15,4 @@ extension Color {
     static var colorTransparentBlack: Color { Color("ColorTransparentBlack") }
 }
 
-struct Labe: UILabel{
-    <#fields#>
-}
+
